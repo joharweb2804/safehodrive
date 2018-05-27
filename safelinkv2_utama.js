@@ -25,7 +25,7 @@ if(x=="1"){xxx="05/watching-forex-volatility-on-currensee.html"}
 if(x=="2"){xxx="05/volume-rate-of-change-indicator-and.html"}
 if(x=="3"){xxx="05/understanding-triangle-formation.html"}
 if(x=="4"){xxx="05/usd-fundamental-analysis.html"}
-output.value = "https://safehodrive.blogspot.com/2018"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+output.value = "https://safehodrive.blogspot.com/2018/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
